@@ -1,0 +1,18 @@
+How the calculator works?
+
+There are 4 basic instructions:
+
+1.- To do a basic operation, first you have to press a number, then you have to press a basic operator,
+	then press another number and, finally, you have to press equals to button.
+	
+2.- Pi and e numbers works like any other number.
+
+3.- To do a scientific operation, first you have to press the number that corresponds to the 'x' variable, 
+	then you have to press the scientific operator and, automatically, the result appears.
+	
+4.- For scientific operations that contains 2 variables (x to n power, and n root of x), you have to press 
+	the base, then press the operator, then you have to press the number that corresponds to the n variable,
+	and finally press equals to button.
+	
+You can write basic operations by keyboard (Enter is equals to, and back space is AC).
+If you press Shift + C once you are in a calculator window, you can change view.
